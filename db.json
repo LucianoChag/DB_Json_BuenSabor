@@ -1281,5 +1281,27 @@
         }
       }
     }
+  ],
+  "Empleado":[
+    {
+      "id": 1,
+      "nombre": "Juan Cruz",
+      "turno": "Mañana",
+      "antiguedad": "4",
+      "rol": {
+        "id": 1,
+        "nombre": "Cocinero",
+        "horas": "8",
+        "salario": "120000"
+      }
+    }
+  ],
+  "rol":[
+     {
+      "id": 1,
+      "nombre": "Cocinero",
+      "horas": "8",
+      "salario": "120000"
+    }
   ]
 }
