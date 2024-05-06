@@ -100,7 +100,7 @@
                 {
                   "id": 1,
                   "denominacion": "Coca cola",
-                  "precioVenta": 70,
+                  "precioVenta": 1000,
                   "imagenes": [
                     {
                       "id": 1,
@@ -139,7 +139,7 @@
             {
               "id": 1,
               "denominacion": "Coca cola",
-              "precioVenta": 70,
+              "precioVenta": 1000,
               "imagenes": [
                 {
                   "id": 1,
@@ -246,7 +246,7 @@
                 {
                   "id": 1,
                   "denominacion": "Coca cola",
-                  "precioVenta": 70,
+                  "precioVenta": 1000,
                   "imagenes": [
                     {
                       "id": 1,
@@ -303,7 +303,7 @@
         {
           "id": 1,
           "denominacion": "Coca cola",
-          "precioVenta": 70,
+          "precioVenta": 1000,
           "imagenes": [
             {
               "id": 1,
@@ -352,7 +352,7 @@
         {
           "id": 1,
           "denominacion": "Coca cola",
-          "precioVenta": 70,
+          "precioVenta": 1000,
           "imagenes": [
             {
               "id": 1,
@@ -400,6 +400,10 @@
     {
       "id": 7,
       "url": "https://hips.hearstapps.com/hmg-prod/images/la-la-land-final-1638446140.jpg"
+    },
+    {
+      "id": 8,
+      "url": "https://granjaus.com/wp-content/uploads/2019/02/AA113.jpg"
     }
   ],
   "categorias": [
@@ -421,7 +425,7 @@
             {
               "id": 1,
               "denominacion": "Coca cola",
-              "precioVenta": 70,
+              "precioVenta": 1000,
               "imagenes": [
                 {
                   "id": 1,
@@ -445,7 +449,7 @@
         {
           "id": 1,
           "denominacion": "Coca cola",
-          "precioVenta": 70,
+          "precioVenta": 1000,
           "imagenes": [
             {
               "id": 1,
@@ -573,6 +577,96 @@
       ]
     },
     {
+      "id": 3,
+      "denominacion": "Pizza Anana",
+      "precioVenta": 1800,
+      "imagenes": [
+        {
+          "id": 5,
+          "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.losandes.com.ar%2Fsociedad%2Ffin-de-la-discusion-la-pizza-con-anana-es-verdaderamente-una-pizza&psig=AOvVaw3iCuX7h_lhzR0F-uxP3fbK&ust=1715040597683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjdyaDe94UDFQAAAAAdAAAAABAE"
+        }
+      ],
+      "unidadMedida": {
+        "id": 4,
+        "denominacion": "Porciones"
+      },
+      "descripcion": "Una pizza con tintes tropicales",
+      "tiempoEstimadoMinutos": 20,
+      "preparacion": "Pasos de preparacion para Pizza Tropical",
+      "articuloManufacturadoDetalles": [
+        {
+          "id": 6,
+          "cantidad": 500,
+          "articuloInsumo": {
+            "id": 3,
+            "denominacion": "Queso",
+            "precioVenta": 66.6,
+            "imagenes": [
+              {
+                "id": 3,
+                "url": "https://superdepaso.com.ar/wp-content/uploads/2021/06/SANTAROSA-PATEGRAS-04.jpg"
+              }
+            ],
+            "unidadMedida": {
+              "id": 2,
+              "denominacion": "Gramos"
+            },
+            "precioCompra": 23.6,
+            "stockActual": 20,
+            "stockMaximo": 50,
+            "esParaElaborar": true
+          }
+        },
+        {
+          "id": 7,
+          "cantidad": 300,
+          "articuloInsumo": {
+            "id": 2,
+            "denominacion": "Harina",
+            "precioVenta": 60.5,
+            "imagenes": [
+              {
+                "id": 2,
+                "url": "https://mandolina.co/wp-content/uploads/2023/03/648366622-1024x683.jpg"
+              }
+            ],
+            "unidadMedida": {
+              "id": 2,
+              "denominacion": "Gramos"
+            },
+            "precioCompra": 40,
+            "stockActual": 4,
+            "stockMaximo": 40,
+            "esParaElaborar": true
+          }
+        },
+        {
+          "id": 8,
+          "cantidad": 0.5,
+          "articuloInsumo": {
+            "id": 5,
+            "denominacion": "Anana",
+            "precioVenta": 100,
+            "imagenes": [
+              {
+                "id": 8,
+                "url": "https://granjaus.com/wp-content/uploads/2019/02/AA113.jpg"
+              }
+            ],
+            "unidadMedida": {
+              "id": 3,
+              "denominacion": "Cantidad"
+            },
+            "precioCompra": 25,
+            "stockActual": 6,
+            "stockMaximo": 50,
+            "esParaElaborar": true
+          }
+        }
+        
+      ]
+    },
+    {
       "id": 2,
       "denominacion": "Pizza Margarita",
       "precioVenta": 150,
@@ -666,7 +760,7 @@
     {
       "id": 1,
       "denominacion": "Coca cola",
-      "precioVenta": 70,
+      "precioVenta": 1000,
       "imagenes": [
         {
           "id": 1,
@@ -738,6 +832,25 @@
       "stockActual": 20,
       "stockMaximo": 50,
       "esParaElaborar": true
+    },
+    {
+      "id": 5,
+      "denominacion": "Anana",
+      "precioVenta": 100,
+      "imagenes": [
+        {
+          "id": 8,
+          "url": "https://granjaus.com/wp-content/uploads/2019/02/AA113.jpg"
+        }
+      ],
+      "unidadMedida": {
+        "id": 3,
+        "denominacion": "Cantidad"
+      },
+      "precioCompra": 25,
+      "stockActual": 6,
+      "stockMaximo": 50,
+      "esParaElaborar": true
     }
   ],
   "empresas": [
@@ -791,7 +904,7 @@
                     {
                       "id": 1,
                       "denominacion": "Coca cola",
-                      "precioVenta": 70,
+                      "precioVenta": 1000,
                       "imagenes": [
                         {
                           "id": 1,
@@ -861,7 +974,7 @@
                 {
                   "id": 1,
                   "denominacion": "Coca cola",
-                  "precioVenta": 70,
+                  "precioVenta": 1000,
                   "imagenes": [
                     {
                       "id": 1,
@@ -937,7 +1050,7 @@
                     {
                       "id": 1,
                       "denominacion": "Coca cola",
-                      "precioVenta": 70,
+                      "precioVenta": 1000,
                       "imagenes": [
                         {
                           "id": 1,
@@ -1022,7 +1135,7 @@
                 {
                   "id": 1,
                   "denominacion": "Coca cola",
-                  "precioVenta": 70,
+                  "precioVenta": 1000,
                   "imagenes": [
                     {
                       "id": 1,
