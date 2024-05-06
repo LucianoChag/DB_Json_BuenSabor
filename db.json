@@ -127,10 +127,10 @@
       "promociones": [
         {
           "id": 1,
-          "denominacion": "Dia de los Enamorados",
+          "denominacion": "Happy Hour",
           "fechaDesde": "2024-02-13",
           "fechaHasta": "2024-02-15",
-          "horaDesde": "00:00:00",
+          "horaDesde": "21:00:00",
           "horaHasta": "23:59:00",
           "descripcionDescuento": "El descuento que se hace por san valentin, un dia antes y un dia despues",
           "precioPromocional": 100,
@@ -276,10 +276,10 @@
   "promociones": [
     {
       "id": 1,
-      "denominacion": "Dia de los Enamorados",
+      "denominacion": "Happy Hour",
       "fechaDesde": "2024-02-13",
       "fechaHasta": "2024-02-15",
-      "horaDesde": "00:00:00",
+      "horaDesde": "21:00:00",
       "horaHasta": "23:59:00",
       "descripcionDescuento": "El descuento que se hace por san valentin, un dia antes y un dia despues",
       "precioPromocional": 100,
@@ -319,18 +319,18 @@
       "imagenes": [
         {
           "id": 10,
-          "url": "https://images.unsplash.com/photo-1581022295087-35e593704911?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          "url": "https://www.shutterstock.com/shutterstock/photos/1797237547/display_1500/stock-vector-comic-explosion-with-text-happy-hour-vector-flat-illustration-colorful-bubble-burst-splash-1797237547.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "denominacion": "Combo Pizza",
-      "fechaDesde": "2024-04-25",
-      "fechaHasta": "2024-05-05",
-      "horaDesde": "00:00:00",
+      "denominacion": "Locro de Mayo",
+      "fechaDesde": "2024-05-02",
+      "fechaHasta": "2024-05-25",
+      "horaDesde": "21:00:00",
       "horaHasta": "23:59:00",
-      "descripcionDescuento": "¡Disfruta de un combo especial de pizza!",
+      "descripcionDescuento": "¡Vení a festejar nuestro primer gobierno patrio al Buen Sabor!",
       "precioPromocional": 180,
       "tipoPromocion": "combo",
       "articulos": [
@@ -989,10 +989,10 @@
           "promociones": [
             {
               "id": 1,
-              "denominacion": "Dia de los Enamorados",
+              "denominacion": "Happy Hour",
               "fechaDesde": "2024-02-13",
               "fechaHasta": "2024-02-15",
-              "horaDesde": "00:00:00",
+              "horaDesde": "21:00:00",
               "horaHasta": "23:59:00",
               "descripcionDescuento": "El descuento que se hace por San Valentin, un día antes y un día después",
               "precioPromocional": 100,
@@ -1135,12 +1135,12 @@
           "promociones": [
             {
               "id": 2,
-              "denominacion": "Combo Pizza",
-              "fechaDesde": "2024-04-25",
-              "fechaHasta": "2024-05-05",
-              "horaDesde": "00:00:00",
+              "denominacion": "Locro de Mayo",
+              "fechaDesde": "2024-05-02",
+              "fechaHasta": "2024-05-25",
+              "horaDesde": "21:00:00",
               "horaHasta": "23:59:00",
-              "descripcionDescuento": "¡Disfruta de un combo especial de pizza!",
+              "descripcionDescuento": "¡Vení a festejar nuestro primer gobierno patrio al Buen Sabor!",
               "precioPromocional": 180,
               "tipoPromocion": "combo",
               "articulos": [
@@ -1287,7 +1287,7 @@
       "id": 1,
       "nombre": "Juan Cruz",
       "turno": "Mañana",
-      "antiguedad": "4",
+      "antiguedad": "4 años",
       "rol": {
         "id": 1,
         "nombre": "Cocinero",
