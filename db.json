@@ -404,6 +404,10 @@
     {
       "id": 8,
       "url": "https://granjaus.com/wp-content/uploads/2019/02/AA113.jpg"
+    },
+    {
+      "id": 9,
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.losandes.com.ar%2Fsociedad%2Ffin-de-la-discusion-la-pizza-con-anana-es-verdaderamente-una-pizza&psig=AOvVaw3iCuX7h_lhzR0F-uxP3fbK&ust=1715040597683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjdyaDe94UDFQAAAAAdAAAAABAE"
     }
   ],
   "categorias": [
@@ -582,7 +586,7 @@
       "precioVenta": 1800,
       "imagenes": [
         {
-          "id": 5,
+          "id": 9,
           "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.losandes.com.ar%2Fsociedad%2Ffin-de-la-discusion-la-pizza-con-anana-es-verdaderamente-una-pizza&psig=AOvVaw3iCuX7h_lhzR0F-uxP3fbK&ust=1715040597683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjdyaDe94UDFQAAAAAdAAAAABAE"
         }
       ],
